@@ -1,6 +1,8 @@
-# Loaded Lecture Template
+# Assignment 01 - Pytorch
 
-Template for assignments with Poetry, and VS Code extensions for Python.
+This assignment looks at using Pytorch to implement some neural net architectures.
+
+It is recommended to perform this assignment in codespaces.
 
 ## Installation and Usage
 
